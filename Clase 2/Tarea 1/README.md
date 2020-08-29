@@ -17,7 +17,8 @@
 >|--|--|--|
 >|  logs/| logs/debug.log | Appending a slash indicates the pattern is a directory. The entire contents of any directory in the repository matching that name – including all of its files and subdirectories – will be ignored|
 >|*.log|debug.log|An asterisk is a wildcard that matches zero or more characters.| 
- >Para mayor detalle, consultar el [siguiente enlace](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
+>
+>Para mayor detalle, consultar el [siguiente enlace](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
 >
 >2. Realizamos el archivo .gitignore (se creó en la raiz) y escirbimos las siguientes líneas:
 >*venv/* - ignorar los archivos dentro del directorio **venv**.
