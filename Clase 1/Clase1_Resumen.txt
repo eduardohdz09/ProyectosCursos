@@ -1,0 +1,130 @@
+#Resumen de los temas vistos en la primer sesión
+
+SCRUM
+
+Es un Framework utilizado por las metologías ágiles para la creación de software, su éxito se basa principlamente 
+su forma de trabajo ya que abraza mucho el cambio sin sacrificar la estabilidad del proyecto.
+
+	Roles en SCRUM
+
+	1 .- SCRUM Master: Persona encargada de que el equipo trabaje de forma ármonica, su principal tarea es identificar
+						si existen problemas que dificulte la entrega del sprint en tiempo y forma por parte del equipo.
+						Realiza ceremonias con la finalidad de aterrizar el proyecto e identificar algo que pueda generar un retraso.
+						En conjunto con el PO realizan el product backlog para aterrizar la entrega de los módulos del proyecto.
+
+
+	2 .- Product Owner (Po): Persona que tiene amplio conocimiento de del giro y los procesos de la empresa la cual tiene como función ser 
+		 					el medio entre el cliente y el equipo encargado del desarrollo (No es necesario que sea parte del equipo de trabajo).
+		 					Escucha las necesidades del cliente, determina si son factibles y en caso de serlo las prioriza en el Backlog.
+		 					No es necesario que esté en todas las ceremonias del equipo.
+
+
+	3 .- Project Manager: En el Framework SCRUM no es vital que exista este rol, debido a que no existen jerarquias y el equipo es autosuficiente.
+						  Su función es gestionar el avance del proyecto. Debe de tener el conocimiento de todas las necesidades y soluciones del proyecto.
+						
+
+
+	4.- Software Bussiness Analyst: Puente entre los clientes y los desarrolladores, traduce las necesidades a los desarrolladores.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Backend: Equipo de desarrollo encargado en implementar toda la lógica del negocio del lado del servidor.
+		Realizan las interfaces (APIs) con la finalidad de que los Frontends puedas consumir sus servicios y
+		alimentar las páginas web.
+
+		En ocasiones también deben de cuidar ciertos parámetros como la respuesta del servidor, las conexiones
+		bases de datos.
+
+		Los lenguajes más utilizados en está área son: python, java, Ruby y go.
+		Los frameworks más ultilizados son: Spring, django, postman, flask y Ruby onrails
+
+
+Frontend: Equipo desarrollador encargado en implementar la página que el usuario final observará.
+		  Consumen las APIs creadas por los Backends para hacer la página dinámica.
+		  Mediante CSS dan diseños a la página con la finalidad de que se vea atractiva para el usuario final.
+		  Cuidan el diseño responsivo de la página para que sea vea óptima en cualquier servidor o dispositivo.
+
+
+		Los lenguajes más utlizados son: HTML5, CSS3, Javascript, php y jquery
+		las librerias y frameworks más utilizados son: ReactJS, Angular y NodeJS
+
+
+Fullstack: Persona con amplios conocimientos de backend, frontend, BDs, DEVOPs y desarrollo móvil.
+			Son uno de los puestos mejor pagados y esto es debido a que es muy díficil encontrase a alguien 
+			con ese perfil y competente en todas las áreas.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Cloud
+
+Es una red de servidores de alta velocidad la cual te permite realizar peticiones a gran escala.
+Esta red se puede utilizar de las siguientes formas:
+
+IAAS (Infraestructura como servicio)
+El usuario adquiere y consume CPU, memoria, red y almacenamiento para sus aplicaciones.
+
+SAAS (Software como servicio)
+El usuario  Usa el servicio  por medio de un navegador o por otro medio similar, pero el 
+usuario no controla ni el hardware, ni la plataforma.
+
+PAAS(Plataforma como servicio)
+Al igual que IAAS, PAAS incluye infraestructura (servidores, almacenamiento y redes), pero 
+también incluye middleware, herramientas de desarrollo, servicios de inteligencia empresarial (BI), sistemas de administración de bases de datos, etc
+
+Clouds más famosas: AWS, Google Cloud, Docker y Azure
+
+Rol: Cloud Enginner: Persona encargada de las siguientes actividades en la nube.
+		Configurar servicios
+		Diseño
+		mantenimineto
+		Monitoreo
+		Desarrollo
+		Administración
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Desarrollo móvil
+
+Área encarga de desarrollar aplicaciones para dispositivos móviles (SO Android (Kotlin) y IOS(Swift))
+Existe también el desarrllo para aplicaciones hibridas con el uso de herramientas como (Xamarin y React)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tester
+
+Persona encargada de revisar la funcionalidad de un desarrollo con la finalidad de que este no tenga bugs o errores
+fatales en el funcionamiento y que pueda para al ambiente productivo sin algun problema futuro.
+Un tester es muy importante en un equipo de desarrollo debido a que cuenta con otro enfoque y métodos los cuales un
+desarrollador no tiene.
+
+Las herramientas más conocidas para realizar estas pruebas son: SOAPUI, ApacheJMater y KarateBDD Testing.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Ciencia de datos
+
+	Es el área encargada de recabar información (usualmente datos no estructurados), ordenarlos y mediante estos mismos
+	realizar análisis con la finalidad de detectar o predecir algún comportamiento.
+	
+	
+	Data Enginner - Prepara la informacióny la concentra en la forma más óptima (casi siempre en una BD, por lo que sus
+	conocimientos en BDs deben de ser buenos) para la consulta de las demás personas involucradas en el proceso.
+	Data Scientist - Mediante modelos estadisticos analiza la información con la finalidad de inspeccionar el comportamiento
+	de los datos y poder realizar predicciones.
+	Data Analyst - Analiza la información, la plasma con apoyo de algunas herramientas con la finalidad de inspeccioanr el comportamiento
+	de los datos y sacar un conclusión con la información obtenida.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DEVOPs
+
+Es una metodología de desarrallo que tiene como objetivo juntar el área de desarrollo con la de operaciones (administradores de los sistemas)
+con la finalidad de aumentar la productividad y colaboración entre los participantes.
+
+El principal objetivo de esta metodolgía es automatizar y monitorear todos los pasos de la construcción de software.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
