@@ -8,5 +8,3 @@ def imprimir_piramide_forma2 (n = 10):
         print("*" * i) #Concatena * n veces y lo imprime
         i = i + 1
 
-
-imprimir_piramide_forma2()
