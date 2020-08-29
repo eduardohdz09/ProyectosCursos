@@ -11,7 +11,7 @@
 ## Desarrollo de la actividad 🔧
 > Realizar un archivo .gitignore con la finalidad de ignorar los archivos dentro del repositorio **venv** y la extensión **.mp3**.
 > 
-> 1. Indagamos dentro de la documentación del archivo .gitignore las sintaxis para ignorar direcotrios y extensión de archivos.
+> 1. Indagamos dentro de la documentación del archivo .gitignore las sintaxis para ignorar directorios y extensión de archivos.
 > 
 >| Pattern |Example Matches  |Explanation|
 >|--|--|--|
