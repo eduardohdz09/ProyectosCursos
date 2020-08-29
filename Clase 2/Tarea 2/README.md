@@ -4,16 +4,16 @@
 ## Introducción 🚀
 
 > en la siguiente actividad se realizó una solución para crear una piramide como se muestra a continuación:
-> x
-> xx
-> xxx
-> xxxx
-> xxxxx
-> xxxxxx
-> xxxxxxx
-> xxxxxxxx
-> xxxxxxxxx
-> xxxxxxxxxx
+> - x
+> - xx
+> - xxx
+> - xxxx
+> - xxxxx
+> - xxxxxx
+> - xxxxxxx
+> - xxxxxxxx
+> - xxxxxxxxx
+> - xxxxxxxxxx
 
 ## Desarrollo de la actividad 🔧
 >
